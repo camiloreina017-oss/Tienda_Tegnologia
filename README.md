@@ -1,4 +1,4 @@
-# Tienda de Tecnología - Web App E-Commerce
+# Tienda de Tecnología
 
 ###  ¿Qué problema resuelve?
 Ofrece una plataforma web interactiva y moderna para la exhibición y venta de productos tecnológicos, permitiendo a los usuarios explorar catálogo, filtrar productos y gestionar sus compras en un carrito funcional de manera rápida e intuitiva.
