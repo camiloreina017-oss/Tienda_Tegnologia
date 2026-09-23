@@ -11,9 +11,10 @@ $host = "localhost";
 $user = "root";
 $password = ""; 
 $dbname = "tienda_db";
+$port = 3307; // Puerto configurado en XAMPP
 
-// Crear conexión
-$conn = new mysqli($host, $user, $password, $dbname);
+// Crear conexión incluyendo el puerto
+$conn = new mysqli($host, $user, $password, $dbname, $port);
 
 // Validar conexión
 if ($conn->connect_error) {
